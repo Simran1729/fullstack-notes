@@ -148,6 +148,7 @@ Refer this url : https://chatgpt.com/c/691a0e2d-0530-8324-b1a9-13b0aa0359d5
 1. Folder Structure:
    everything related to that specific feature.
 
+```
 src/
 ├── features/
 │ ├── auth/
@@ -174,3 +175,4 @@ src/
 │ ├── store/
 │ ├── types/
 │ └── utils/
+```
