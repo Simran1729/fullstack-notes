@@ -10,4 +10,8 @@ State can change only through defined actions.
 Every change flows in one direction and triggers a UI update.
 ```
 
-3.
+3. You write your global state in a store using create from zustand
+
+4. then you can use this store as a hook in your components and that is it.
+
+// refernce : go to zustand documentation
